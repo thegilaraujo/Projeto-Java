@@ -6,6 +6,13 @@ public class Main {
 		System.out.println("Hello World!");
 		
 		System.out.println("Teste");
+		
+		System.out.println("d");
+		System.out.println("d");
+		System.out.println("d");
+		System.out.println("d");
+		System.out.println("d");
+		System.out.println("d");
 	}
 
 }
